@@ -40,3 +40,7 @@ pyinstaller --noconfirm gifpopup.spec
 ```
 
 Releases are built automatically by GitHub Actions on every push to `main` (published as "Latest build") and on `v*` tags.
+
+## License
+
+MIT. See [LICENSE](LICENSE). The fish GIF is a meme from Tenor and is not covered by this license.
