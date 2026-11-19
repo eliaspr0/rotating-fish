@@ -39,4 +39,4 @@ pip install pillow pyinstaller
 pyinstaller --noconfirm gifpopup.spec
 ```
 
-Releases are built automatically by GitHub Actions when a `v*` tag is pushed.
+Releases are built automatically by GitHub Actions on every push to `main` (published as "Latest build") and on `v*` tags.
